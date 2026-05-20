@@ -1,42 +1,32 @@
 <div align="center">
 
-<pre>
-╔════════════════════╗
-║     💻  My-C-codes  💻     ║
-╚════════════════════╝
-</pre>
+# C Programs
 
-## Project Repository
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-
+*Foundational C programs covering pointers, memory management, data structures, and systems programming.*
 
 </div>
 
 ---
 
-## About
+## Contents
 
-A Python project repository. See the source code for details.
-
----
-
-## Features
-
-- See source code for details
-
----
-
-## Tech Stack
-
-_See source_
+- Pointers and dynamic memory (malloc / free)
+- Structs and linked data structures
+- File I/O operations
+- String manipulation
+- Recursion and sorting algorithms
+- Bitwise operations
 
 ---
 
-## Author
+## Tech stack
 
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`C` · `GCC`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
